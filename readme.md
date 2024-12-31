@@ -3,7 +3,7 @@
 This is my first JavaScript Project. I have tried to recreate the Chrome Dino Game.
 
 ## Features
-- The character can jump by clicking.
+- The character can jump by clicking (or any Keyboard input).
 - Different cactus images appear randomly as obstacles.
 - The game tracks the player's current score and high score.
 - The difficulty increases over time by decreasing the block appearance delay and increasing the block speed.
@@ -25,6 +25,7 @@ To run the game, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in any web browser.
 3. The game will start automatically.
+4. You can 
 
 ## JavaScript (script.js)
 
