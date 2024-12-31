@@ -100,4 +100,4 @@ let checkDead = setInterval(function ()
 }, 75);
 
 // Start the initial block creation
-createBlock();
+setTimeout(createBlock, 1500);
