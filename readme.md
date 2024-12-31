@@ -1,4 +1,4 @@
-# Dino Game
+# Jumping Game
 
 This is my first JavaScript Project. I have tried to recreate the Chrome Dino Game.
 
