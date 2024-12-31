@@ -5,15 +5,16 @@ This is my first JavaScript Project. I have tried to recreate the Chrome Dino Ga
 ## Features
 - The character can jump by clicking (or any Keyboard input).
 - Different cactus images appear randomly as obstacles.
-- The game tracks the player's current score and high score.
+- The game tracks the player's current score and high score (the high score is saved in the local storage after loosing).
 - The difficulty increases over time by decreasing the block appearance delay and increasing the block speed.
 
 ## Files
 - **`index.html`**: The main HTML structure for the game.
 - **`style.css`**: The styling for the game elements.
-- **`script.js`**: The JavaScript for the game logic and interaction.
+- **`script.js`**: The JavaScript for the game logic.
 - **`dino1.png`, `dino2.png`**: Images for the character.
 - **`cactus1.png`, `cactus2.png`, `cactus3.png`, `cactus4.png`, `cactus5.png`**: Images for the cacti.
+- **`dino.png`**: Fav. Icon
 
 ## How to Play
 1. Press any key to make the character jump.
@@ -25,7 +26,7 @@ To run the game, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in any web browser.
 3. The game will start automatically.
-4. You can 
+4. You can also go to https://w4ppler.github.io/ to test it out
 
 ## JavaScript (script.js)
 
