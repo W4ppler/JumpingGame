@@ -26,7 +26,6 @@ To run the game, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in any web browser.
 3. The game will start automatically.
-4. You can also go to https://w4ppler.github.io/ to test it out
 
 ## JavaScript (script.js)
 
