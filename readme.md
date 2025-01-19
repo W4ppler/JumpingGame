@@ -26,6 +26,7 @@ To run the game, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in any web browser.
 3. The game will start automatically.
+4. You can also visit https://w4ppler.github.io/jumping%20game/index.html to test it out
 
 ## JavaScript (script.js)
 
